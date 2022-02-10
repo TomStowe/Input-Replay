@@ -1,0 +1,6 @@
+infi.systray
+mouse
+keyboard
+
+# Building requires:
+PyInstall
